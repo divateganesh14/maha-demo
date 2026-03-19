@@ -1,2 +1,1 @@
-# maha-demo
-this is my first repository
+Author-ganesh divate
